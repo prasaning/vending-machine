@@ -1,0 +1,27 @@
+{
+    "Coke": [
+        {
+            "prod_id": 1,
+            "prod_quan": 6,
+            "product_price": 2.5,
+            "revenue": 10.0
+        }
+    ],
+    "Chips": [
+        {
+            "prod_id": 2,
+            "prod_quan": 7,
+            "product_price": 1.75,
+            "revenue": 0
+        }
+    ],
+    "Candy": [
+        {
+            "prod_id": 3,
+            "prod_quan": 15,
+            "product_price": 1.25,
+            "revenue": 0
+        }
+    ],
+    "total_sale": 10.0
+}
